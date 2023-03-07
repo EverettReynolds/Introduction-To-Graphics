@@ -1,0 +1,12 @@
+1 - Draw Window
+- Draw Arrow
+- Draw half Circle
+- make tree
+2 - Try to apply transformations
+- Rotation
+- Scaling
+- translation
+3 - Clipping
+- Using Either Foley/ Van Dam or Hearn Algorithm
+4 - Tesselate
+
